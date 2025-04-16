@@ -1,5 +1,5 @@
 # retail-sales-data-analysis
-Retail Sales Data Analysis Project | Python, SQL, Tableau
+Retail Sales Data Analysis | Python, Pandas, Matplotlib, Seaborn, and Tableau
 
 This project analyzes sales and profit data from a superstore from 2014 and 2018
 It covers 9,994 transactions across 4 U.S. regions, 17 product sub-categories, and over 1,800 unique products
@@ -28,11 +28,11 @@ The goal was to uncover insights that help explain:
 - Created and published an interactive dashboard in Tableau
 - Shared insights visually for stakeholder decision-making
 
-## Live Dashboard Link
+# Live Dashboard Link
 
 https://public.tableau.com/views/SuperstoreRetailDashboardGildaEmeni/SuperstoreDashboard?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
 
-## Project Files
+# Project Files
 
 - superstore_clean.csv — Cleaned data for dashboard
 - retail_sales_analysis.ipynb — Python notebook with all analysis steps
